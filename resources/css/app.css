@@ -7,5 +7,34 @@
 @tailwind components;
 @tailwind utilities;
 
-
+.red{
+    color: red;
+    background: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+}
+.green{
+    color: green;
+    background: lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+}
+.blue{
+    color: blue;
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+}
 
